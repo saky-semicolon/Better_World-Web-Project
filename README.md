@@ -1,8 +1,6 @@
-Certainly! Here's a more detailed documentation structure for your Better World project:
-
----
-
 # Better World - Empowering Change for a Sustainable Tomorrow
+
+<img src="Medias/logo.jpeg">
 
 ## Introduction
 
@@ -33,6 +31,12 @@ We envision a safe, equitable, and sustainable world where every individual thri
 - **S M ASIFUL ISLAM SAKY & Muhammad Zulfan Abidin:** Website and application development, research, and comparisons.
 - **Nourhan Mohamed Abdelhamid Sayed:** Content creation, marketing, sponsor communication, and idea development.
 
+<!-- Advisors -->
+
+### Partner
+**SEMICOLON**, the ultimate educational platform designed to empower learners and foster intellectual growth!
+SEMICOLON is not just another run-of-the-mill learning platform; it's a transformative digital ecosystem where knowledge meets innovation. SEMICOLON has curated a vast library of comprehensive courses covering a wide range of subjects, from mathematics and computer science to technology, robotics and IELTS. Whether you're a student seeking academic support, a professional aiming to upskill, or an enthusiastic learner hungry for knowledge, it has something for everyone. SEMICOLON is not just an educational platform; it's a gateway to personal growth, professional success, and lifelong learning. 
+
 ## Focus Areas and Strategies
 
 ### Focus Areas
@@ -48,6 +52,7 @@ We envision a safe, equitable, and sustainable world where every individual thri
 #### Learning and Training
 - **Learning Stage:** Providing educational content, practical projects, interviews, and networking to instill a Better World mindset.
 - **Online Training:** Comprehensive modules ensuring understanding and active participation toward the 17 SDGs.
+- **Blogs:** So many blogs will be written by our specialists about 
 
 #### Evaluation and Impact Measurement
 - **Evaluation:** Assessing impact based on user engagement, effectiveness, and new user acquisition.
@@ -57,7 +62,7 @@ We envision a safe, equitable, and sustainable world where every individual thri
 - **Challenges:** Engaging users in implementing ideas aligned with the 17 SDGs.
 - **Awards:** Recognizing outstanding contributions with cash prizes and annual Noble BW awards, including micro-loans for startups.
 
-## Monthly Plans (Sample)
+## Monthly Plans (Briefly)
 
 ### December 2023
 - Website development and content creation.
@@ -88,6 +93,3 @@ We envision a safe, equitable, and sustainable world where every individual thri
 - Legal considerations and IP protection for sustained growth.
 - Long-term sustainability plans beyond the initial phases.
 
----
-
-This comprehensive documentation encompasses key aspects of Better World, from its mission and team structure to strategies, monthly plans, and guiding principles. Feel free to adjust and expand upon each section to provide a more detailed overview for stakeholders, collaborators, or anyone interested in your project.
