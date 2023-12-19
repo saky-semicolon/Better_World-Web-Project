@@ -2,6 +2,8 @@
 
 <img src="Medias/logo.jpeg">
 
+# General Overview
+
 ## Introduction
 
 Better World is an innovative application dedicated to creating a positive global impact by aligning with the United Nations' 17 Sustainable Development Goals (SDGs). Our platform integrates education, gamification, and social impact strategies to empower users to learn, apply their knowledge, and make meaningful contributions to society.
@@ -92,4 +94,5 @@ SEMICOLON is not just another run-of-the-mill learning platform; it's a transfor
 - Continuous refinement of strategies based on feedback.
 - Legal considerations and IP protection for sustained growth.
 - Long-term sustainability plans beyond the initial phases.
+
 
