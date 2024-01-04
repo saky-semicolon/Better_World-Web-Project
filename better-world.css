@@ -1,3 +1,100 @@
-#navbar {
-  background-color: none;
+/* open-header */
+
+.navbar {
+  background-color: rgba(254,237,157,255);
+  width: 100%;
+  z-index: 2;
 }
+
+.collapse {
+  display: flex;
+  flex-direction: row;
+  align-content: space-between;
+  align-items: flex-start;
+}
+
+.logo-navbar {
+  height: 50px;
+  margin-right: 200px;
+  margin-left: 50px;
+}
+
+.nav-link {
+  margin: 0 30px 0 15px;
+  font-size: 20px;
+  color: rgba(234,169,63,255);
+}
+
+.nav-link:hover {
+  color: white;
+}
+
+.btn-navbar  {
+  border-radius: 50px;
+  margin: 0 10px 0 10px;
+  background-color: rgba(234,169,63,255);
+  padding: 5px 25px;
+  border: none;
+  color: rgba(254,237,157,255);
+  transition: all 0.4s;
+}
+
+.btn-navbar:hover {
+  box-shadow: 1px 2px 1px 1px rgba(234,169,63,0.4);
+  color: rgba(234,169,63,255);
+  background-color: rgba(254,237,157,255);
+}
+
+/* close-header */
+
+
+/* open-body */
+
+
+
+/* open-background */
+
+.img-background {
+  width: 100%;
+  height: 100vh;
+  object-position: 0px 10px;
+  object-fit: cover;
+  position: fixed;
+  z-index: -1;
+}
+/* .img-background::after {
+  content: '';
+  position: absolute;
+  background-color: white;
+  width: 100%;
+  height: 100vh;
+  z-index: 1;
+} */
+/* close-background */
+
+/* open-page-landing */
+.landing {
+  background-color: white;
+  width: 90vw;
+  height: 100vw;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  z-index: 1;
+  top: 65px;
+  left: 65px;
+  border: 2px solid black;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.landing-1 {
+  background-color: rgba(254,237,157,255);
+  height: 20%;
+  display: flex;
+  flex-direction: row;
+}
+
+
+
+/* close-page-landing */
